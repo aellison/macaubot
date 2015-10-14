@@ -1,3 +1,3 @@
 @echo off
 
-npm install && node_modules\.bin\hubot.cmd --name "HAL9000" %* 
+npm install && node_modules\.bin\hubot.cmd --name "macaubot" %* 
