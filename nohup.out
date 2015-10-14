@@ -1,0 +1,99 @@
+[Wed Oct 14 2015 18:33:13 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE 0.0.0.0:8080
+  at Object.exports._errnoException (util.js:874:11)
+  at exports._exceptionWithHostPort (util.js:897:20)
+  at Server._listen2 (net.js:1234:14)
+  at listen (net.js:1270:10)
+  at net.js:1379:9
+  at doNTCallback3 (node.js:450:9)
+  at process._tickCallback (node.js:356:17)
+
+[1G[0Jmacaubot> [11G[Wed Oct 14 2015 18:33:13 GMT-0400 (EDT)] ERROR Error: EBADF: bad file descriptor, read
+  at Error (native)
+
+[Wed Oct 14 2015 18:33:13 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 18:33:13 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 18:33:13 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+Unknown option: --name=macaubot
+[Wed Oct 14 2015 19:17:32 GMT-0400 (EDT)] INFO Telegram Adapter Bot 105209155:AAGcnJ544t2P6i54_Q7h_LvIKwDVDSXnaKo Loaded...
+[Wed Oct 14 2015 19:17:32 GMT-0400 (EDT)] INFO Telegram Adapter Started...
+(node) sys is deprecated. Use util instead.
+[Wed Oct 14 2015 19:17:33 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 19:17:33 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 19:17:33 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Oct 14 2015 19:17:33 GMT-0400 (EDT)] INFO Telegram Bot Identified: macaubot
+[Wed Oct 14 2015 19:17:48 GMT-0400 (EDT)] INFO Receiving message_id: 111
+[Wed Oct 14 2015 19:17:48 GMT-0400 (EDT)] INFO Sending message to room: 69304057
+Unknown option: --name=macaubot
+[Wed Oct 14 2015 19:25:06 GMT-0400 (EDT)] INFO Telegram Adapter Bot 105209155:AAGcnJ544t2P6i54_Q7h_LvIKwDVDSXnaKo Loaded...
+[Wed Oct 14 2015 19:25:06 GMT-0400 (EDT)] INFO Telegram Adapter Started...
+(node) sys is deprecated. Use util instead.
+[Wed Oct 14 2015 19:25:07 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 19:25:07 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 19:25:07 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Oct 14 2015 19:25:07 GMT-0400 (EDT)] INFO Telegram Bot Identified: macaubot
+[Wed Oct 14 2015 19:25:18 GMT-0400 (EDT)] INFO Receiving message_id: 123
+[Wed Oct 14 2015 19:25:19 GMT-0400 (EDT)] INFO Sending message to room: 69304057
+Unknown option: --name=macaubot
+[Wed Oct 14 2015 19:25:49 GMT-0400 (EDT)] INFO Telegram Adapter Bot 105209155:AAGcnJ544t2P6i54_Q7h_LvIKwDVDSXnaKo Loaded...
+[Wed Oct 14 2015 19:25:49 GMT-0400 (EDT)] INFO Telegram Adapter Started...
+(node) sys is deprecated. Use util instead.
+[Wed Oct 14 2015 19:25:50 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 19:25:50 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 19:25:50 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Oct 14 2015 19:25:50 GMT-0400 (EDT)] INFO Telegram Bot Identified: macaubot
+[Wed Oct 14 2015 19:25:51 GMT-0400 (EDT)] INFO Receiving message_id: 125
+[Wed Oct 14 2015 19:25:52 GMT-0400 (EDT)] INFO Sending message to room: 69304057
+Unknown option: --name=macaubot
+[Wed Oct 14 2015 19:26:21 GMT-0400 (EDT)] INFO Telegram Adapter Bot 105209155:AAGcnJ544t2P6i54_Q7h_LvIKwDVDSXnaKo Loaded...
+[Wed Oct 14 2015 19:26:21 GMT-0400 (EDT)] INFO Telegram Adapter Started...
+(node) sys is deprecated. Use util instead.
+[Wed Oct 14 2015 19:26:21 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE 0.0.0.0:8080
+  at Object.exports._errnoException (util.js:874:11)
+  at exports._exceptionWithHostPort (util.js:897:20)
+  at Server._listen2 (net.js:1234:14)
+  at listen (net.js:1270:10)
+  at net.js:1379:9
+  at doNTCallback3 (node.js:450:9)
+  at process._tickCallback (node.js:356:17)
+
+[Wed Oct 14 2015 19:26:22 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 19:26:22 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 19:26:22 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Oct 14 2015 19:26:23 GMT-0400 (EDT)] INFO Telegram Bot Identified: macaubot
+[Wed Oct 14 2015 19:26:23 GMT-0400 (EDT)] INFO Receiving message_id: 127
+[Wed Oct 14 2015 19:26:24 GMT-0400 (EDT)] INFO Sending message to room: 69304057
+Unknown option: --name=macaubot
+[Wed Oct 14 2015 19:27:18 GMT-0400 (EDT)] INFO Telegram Adapter Bot 105209155:AAGcnJ544t2P6i54_Q7h_LvIKwDVDSXnaKo Loaded...
+[Wed Oct 14 2015 19:27:18 GMT-0400 (EDT)] INFO Telegram Adapter Started...
+(node) sys is deprecated. Use util instead.
+[Wed Oct 14 2015 19:27:18 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 19:27:19 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 19:27:19 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Oct 14 2015 19:27:19 GMT-0400 (EDT)] INFO Telegram Bot Identified: macaubot
+[Wed Oct 14 2015 19:27:20 GMT-0400 (EDT)] INFO Receiving message_id: 129
+[Wed Oct 14 2015 19:27:20 GMT-0400 (EDT)] INFO Sending message to room: 69304057
+Unknown option: --name=macaubot
+[Wed Oct 14 2015 19:34:04 GMT-0400 (EDT)] INFO Telegram Adapter Bot 105209155:AAGcnJ544t2P6i54_Q7h_LvIKwDVDSXnaKo Loaded...
+[Wed Oct 14 2015 19:34:04 GMT-0400 (EDT)] INFO Telegram Adapter Started...
+(node) sys is deprecated. Use util instead.
+[Wed Oct 14 2015 19:34:05 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 19:34:06 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 19:34:06 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Oct 14 2015 19:34:06 GMT-0400 (EDT)] INFO Telegram Bot Identified: macaubot
+[Wed Oct 14 2015 19:34:11 GMT-0400 (EDT)] INFO Receiving message_id: 131
+[Wed Oct 14 2015 19:34:11 GMT-0400 (EDT)] INFO Sending message to room: 69304057
+Unknown option: --name=macaubot
+[Wed Oct 14 2015 19:35:10 GMT-0400 (EDT)] INFO Telegram Adapter Bot 105209155:AAGcnJ544t2P6i54_Q7h_LvIKwDVDSXnaKo Loaded...
+[Wed Oct 14 2015 19:35:10 GMT-0400 (EDT)] INFO Telegram Adapter Started...
+(node) sys is deprecated. Use util instead.
+[Wed Oct 14 2015 19:35:11 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web_url | cut -d= -f2)`
+[Wed Oct 14 2015 19:35:11 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Oct 14 2015 19:35:11 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Oct 14 2015 19:35:12 GMT-0400 (EDT)] INFO Telegram Bot Identified: macaubot
+[Wed Oct 14 2015 19:35:13 GMT-0400 (EDT)] INFO Receiving message_id: 133
+[Wed Oct 14 2015 19:35:13 GMT-0400 (EDT)] INFO Sending message to room: 69304057
+[Wed Oct 14 2015 19:35:25 GMT-0400 (EDT)] INFO Receiving message_id: 135
+[Wed Oct 14 2015 19:35:31 GMT-0400 (EDT)] INFO Receiving message_id: 136
+[Wed Oct 14 2015 19:35:31 GMT-0400 (EDT)] INFO Sending message to room: -21400240
+[Wed Oct 14 2015 19:35:51 GMT-0400 (EDT)] INFO Receiving message_id: 138
+[Wed Oct 14 2015 19:35:51 GMT-0400 (EDT)] INFO Sending message to room: -21400240

@@ -1,9 +1,9 @@
 {
-  "name": "HAL9000",
+  "name": "macaubot",
   "version": "0.0.0",
   "private": true,
-  "author": "botadmin",
-  "description": "A Hubot",
+  "author": "Aaron Ellison <aellison@gmail.com>",
+  "description": " A bot.",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
@@ -17,8 +17,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-telegram": "0.0.8",
-    "hubot-telegram-bot": "^1.0.0"
+    "hubot-telegram": "0.0.8"
   },
   "engines": {
     "node": "0.10.x"
